@@ -129,9 +129,6 @@
   <data name="accessdenied" xml:space="preserve">
     <value>Truy cập bị từ chối</value>
   </data>
-  <data name="createbensuccess" xml:space="preserve">
-    <value>Tạo người thụ hưởng thành công</value>
-  </data>
   <data name="receiverfee" xml:space="preserve">
     <value>Phí người nhận trả</value>
   </data>
@@ -192,6 +189,70 @@
   </data>
   <data name="identitycardno" xml:space="preserve">
     <value>Số thẻ căn cước</value>
+  </data>
+  <data name="ngayhieuluc1" xml:space="preserve">
+    <value>Ngày tờ khai/nộp thuế</value>
+  </data>
+  <data name="ngayhieuluc2" xml:space="preserve">
+    <value>Ngày tờ khai HQ</value>
+  </data>
+  <data name="economiccode1" xml:space="preserve">
+    <!--<value>Economic Code</value>-->
+    <value>Mã NDKT</value>
+  </data>
+  <data name="subheadingcode1" xml:space="preserve">
+    <!--<value>Subheading Code</value>-->
+    <value>Mã tiểu mục/Mã NDKT</value>
+  </data>
+  <data name="chaptercode1" xml:space="preserve">
+    <!--<value>Chapter Code</value>-->
+    <value>Mã chương</value>
+  </data>
+  <data name="NoteChapterDefault" xml:space="preserve">
+    <value>Mặc định: 000</value>
+  </data>
+  <data name="documentno1" xml:space="preserve">
+    <!--<value>Document No</value>-->
+    <value>Số tờ khai HQ</value>
+  </data>
+  <data name="accountpayfee" xml:space="preserve">
+    <value>Phí thanh toán tài khoản</value>
+   </data>
+  <data name="dateref1tb" xml:space="preserve">
+    <value>Ngày tờ khai</value>
+  </data>
+  <data name="dateref2tb" xml:space="preserve">
+    <value>Ngày hồ sơ</value>
+  </data>
+  <data name="dateref1" xml:space="preserve">
+    <value>Ngày tờ khai</value>
+  </data>
+  <data name="dateref2" xml:space="preserve">
+    <value>Ngày hồ sơ</value>
+  </data>
+  <data name="contenttaxtb1" xml:space="preserve">
+    <value>Nội dung các khoản nộp</value>
+  </data>
+  <data name="contenttaxtb2" xml:space="preserve">
+    <value>Tên phí, lệ phí</value>
+  </data>
+  <data name="contenttax1" xml:space="preserve">
+    <value>Nội dung các khoản nộp</value>
+  </data>
+  <data name="contenttax2" xml:space="preserve">
+    <value>Nội dung nộp NSNN</value>
+  </data>
+  <data name="NoteEcoDefault" xml:space="preserve">
+    <value>Mặc định: 0000</value>
+  </data>
+  <data name="NoteSubHeadDefault" xml:space="preserve">
+    <value>Mặc định: 000</value>
+  </data>
+  <data name="contenttax1" xml:space="preserve">
+    <value>Nội dung các khoản nộp</value>
+  </data>
+  <data name="contenttax2" xml:space="preserve">
+    <value>Nội dung nộp NSNN</value>
   </data>
   <data name="forgotusername" xml:space="preserve">
     <value>Quên tên đăng nhập ?</value>
